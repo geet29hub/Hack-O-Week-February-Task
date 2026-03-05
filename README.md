@@ -1,3 +1,11 @@
+
+
+Gitika Makheja
+24070521024
+
+Harman Saini
+24070521024
+
 February Development Tasks (Task 6 – Task 10)
 Google colab link : https://colab.research.google.com/drive/1JkpGL2UOyBdiIpANFrJaC4pbsZllly8D?usp=sharing
 
